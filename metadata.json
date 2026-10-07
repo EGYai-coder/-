@@ -1,0 +1,6 @@
+{
+  "name": "مغامرات ساجدة مع الأستاذ AI",
+  "description": "تطبيق تعليمي تفاعلي ذكي لتعليم اللغة العربية والحروف والكلمات للأطفال مع الأستاذ AI، بالصوت، والمهام التفاعلية، ورسم الحروف، وخريطة المغامرات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
